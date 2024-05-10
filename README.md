@@ -1,7 +1,8 @@
 # CSS-Grid
 In this repository I have practiced grid in CSS by making a responsive grid layout.
 
-# output :  https://ambikesh-jha.github.io/CSS-Grid/
+# output :  
+https://ambikesh-jha.github.io/CSS-Grid/
 
 # Responsive HTML/CSS Layout
 

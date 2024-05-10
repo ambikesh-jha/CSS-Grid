@@ -10,5 +10,3 @@ This repository contains a simple HTML/CSS layout designed to be responsive acro
 - Responsive layout that adjusts to different screen sizes.
 - Uses CSS Grid and Flexbox for efficient and modern layout techniques.
 - Media queries for different viewport sizes to ensure optimal viewing experience.
-
-Feel free to modify the contents according to your project's specifics.

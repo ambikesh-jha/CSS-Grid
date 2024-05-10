@@ -11,4 +11,4 @@ This repository contains a simple HTML/CSS layout designed to be responsive acro
 - Uses CSS Grid and Flexbox for efficient and modern layout techniques.
 - Media queries for different viewport sizes to ensure optimal viewing experience.
 
-Feel free to modify the contents according to your project's specifics, and don't forget to replace `yourusername` with your actual GitHub username in the clone URL.
+Feel free to modify the contents according to your project's specifics.
